@@ -7,4 +7,8 @@ This project provides practical experience in performing Git commit and push ope
 
 
 It uses Git version control to record modifications and synchronize updates with the GitHub repository.
+## Team Collaboration
 
+This update was contributed using a
+second GitHub account to demonstrate
+collaborative development.
